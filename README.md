@@ -31,3 +31,10 @@ $Q(X) = \begin{cases} 5\sqrt{X-20+1}+5,
 БЛОК-СХЕМА  X → f(X) → Q → CONTROL → STATE
 
 <img width="810" height="822" alt="image" src="https://github.com/user-attachments/assets/48d25691-9396-4695-9b5f-34c4163a9007" />
+
+
+
+БЛОК-СХЕМА Q[] → заданный интервал → STATISTICS
+
+<img width="752" height="1032" alt="image" src="https://github.com/user-attachments/assets/876d8e92-0f91-4687-bd25-ad91c3b8dc7a" />
+
