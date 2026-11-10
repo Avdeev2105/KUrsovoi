@@ -1,4 +1,4 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #define M_PI 3.14159265358979323846
 #include <stdio.h>
 #include <locale.h>
